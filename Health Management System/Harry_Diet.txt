@@ -1,0 +1,5 @@
+
+Welcome back Harry! Here's your diet record:
+
+[2021-06-19 19:53:56.641791] Roti with Dal
+[2021-06-19 20:02:12.135846] 1 Glass of Water
