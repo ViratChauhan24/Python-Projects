@@ -1,3 +1,5 @@
+# This project isn't completed yet, so better read the whole code, understand it & play according to what feature is available and what isn't.
+
 import random
 import time
 print("Welcome to Hand Cricket. This is developed by Virat Chauhan. \n"
@@ -65,7 +67,7 @@ def toss():
     print("\nIt's time for toss!")
     toss_input = input("Choose your call: HEAD or TAIL\n> ")
 
-    if toss_input == 'Head' or 'HEAD' or 'head':
+    if toss_input == 'Head' or 'HEAD' or 'head': # Lmfao, i know i could have used.lower() func, but i am lazi af!
         toss_do = (random.choice(toss_winlose_list))
 
         if toss_do == ('toss_lose'):
